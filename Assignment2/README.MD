@@ -1,2 +1,2 @@
 # Assignment 2
-## Visitor Design Pattern / Double Dispatch 
+Visitor Design Pattern / Double Dispatch 
